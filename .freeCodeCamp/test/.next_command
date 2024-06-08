@@ -527,3 +527,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cp students.csv stdents_test.csv
 rm students_test.csv
 cp students.csv students_test.csv
+./insert_data.sh
